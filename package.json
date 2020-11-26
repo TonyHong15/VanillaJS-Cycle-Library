@@ -1,0 +1,25 @@
+{
+  "name": "js-library-hongton2",
+  "version": "1.0.0",
+  "description": "frontend library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc309-fall-2020/js-library-hongton2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc309-fall-2020/js-library-hongton2/issues"
+  },
+  "homepage": "https://github.com/csc309-fall-2020/js-library-hongton2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
