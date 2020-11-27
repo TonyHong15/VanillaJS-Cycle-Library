@@ -89,5 +89,13 @@ function example2() {
 
 }
 
+const title = document.createElement("div");
+title.innerHTML = "This is a proof of concept for a library that takes in or creates elements that it will cycle using DOM manipulation"
+title.style.fontSize = "15px";
+title.style.marginBottom = "25px";	
+const body = document.querySelector('body');
+body.append(title);
+
+
 example1();
 example2();

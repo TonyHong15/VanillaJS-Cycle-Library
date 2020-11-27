@@ -109,6 +109,7 @@ Canvas.prototype = {
         this.canvas_wrapper.style.backgroundColor = backgroundColor;
     },
 
+    //allows user to directly add their already made fancy elements
     addPremadeElement: function (id) {
         const element = document.querySelector('#'+id);
         const element_container = new CycleElement( this.canvas_wrapper, this.element_width, this.element_height, this.element_margins, this.element_border);
