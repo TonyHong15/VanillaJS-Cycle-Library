@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 	res.sendFile(path.join(__dirname + '/pub/examples.html'))
 })
 //Listening at port 5000 or specific enviornment port after deployment
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 5001
 app.listen(port, () => {
 	log(`Listening on port ${port}...`)
 })  
