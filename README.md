@@ -1,6 +1,6 @@
 # Cycle Library
 
-Landing Page and Documentation: https://ancient-plateau-98490.herokuapp.com/examples.html
+Landing Page and Documentation: https://ancient-plateau-98490.herokuapp.com/examples.html <br>
 NOTE: landing page is on the same page as the documentation
 
 ## Getting Started 
