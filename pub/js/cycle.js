@@ -2,8 +2,6 @@
 "use strict"; 
 
 
-
-
 /* 
 Wrap the code that creates your library in an Immediately-Invoked function expression (IIFE).
 This allows you to do any setup necessary in this function scope and then only put on the
